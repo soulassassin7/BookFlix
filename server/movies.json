@@ -1,0 +1,23 @@
+[
+  {
+    "_id": "tt0848228",
+    "originalTitle": "The Avengers",
+    "description": "Earth's mightiest heroes must come together...",
+    "primaryImage": "https://m.media-amazon.com/images/M/MV5BNDYxNjQyMjAtNTdiOS00NGYwLWFmNTAtNThmYjU5ZGI2YTI1XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_QL75_UY281_CR1,0,190,281_.jpg",
+    "releaseYear": 2012, "genres": ["Action", "Sci-Fi"], "averageRating": 8.0, "runtime": 143
+  },
+  {
+    "_id": "tt1375666",
+    "originalTitle": "Inception",
+    "description": "A thief who steals corporate secrets...",
+    "primaryImage": "https://m.media-amazon.com/images/M/MV5BMjAxMzY3NjcxNF5BMl5BanBnXkFtZTcwNTI5OTM0Mw@@._V1_QL75_UY281_CR2,0,190,281_.jpg",
+    "releaseYear": 2010, "genres": ["Action", "Sci-Fi"], "averageRating": 8.8, "runtime": 148
+  },
+  {
+    "_id": "tt0468569",
+    "originalTitle": "The Dark Knight",
+    "description": "When the menace known as the Joker...",
+    "primaryImage": "https://m.media-amazon.com/images/M/MV5BMTMxNTMwODM0NF5BMl5BanBnXkFtZTcwODAyMTk2Mw@@._V1_QL75_UY281_CR2,0,190,281_.jpg",
+    "releaseYear": 2008, "genres": ["Action", "Crime"], "averageRating": 9.0, "runtime": 152
+  }
+]
